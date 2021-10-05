@@ -1,4 +1,4 @@
 # MIPT_course
-MIPT data science course
+Moscow Institute of Physics and Technology data science course
 
-[link to certificate verification](coursera.org/verif y/EXHQSGVUZPZ6)
+[link to certificate verification](https://www.coursera.org/verify/EXHQSGVUZPZ6)
